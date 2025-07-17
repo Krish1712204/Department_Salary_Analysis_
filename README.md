@@ -2,6 +2,12 @@
 
 This is a Streamlit-powered dashboard that analyzes employee salary data across departments and highlights departments where the **average salary exceeds the overall average**.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Made%20with-Streamlit-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Internship-Celebal%20Technologies-white?style=flat-square&logo=github">
+  <img src="celebal_logo.png" alt="Celebal Logo" width="24" height="24">
+</p>
+
 🔗 **Live App**: [https://dept-salary-analysis-krishnashelar.streamlit.app/](https://dept-salary-analysis-krishnashelar.streamlit.app/)
 
 ---
@@ -97,6 +103,8 @@ This query is used as the foundation for both:
 ## 📊 Power BI Dashboard
 
 In addition to the Streamlit version, this project is also implemented using **Power BI Desktop**.
+
+![Power BI Dashboard](https://img.shields.io/badge/Visualization-Power%20BI-yellow?style=flat-square&logo=powerbi)
 
 📁 [Download Power BI Project File (.pbix)](PowerBI%20Dashboard/DeptSalaryAnalysis.pbix)
 

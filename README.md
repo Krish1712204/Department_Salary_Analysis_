@@ -5,7 +5,7 @@ This is a Streamlit-powered dashboard that analyzes employee salary data across 
 <p align="left">
   <img src="https://img.shields.io/badge/Made%20with-Streamlit-red?style=flat-square">
   <img src="https://img.shields.io/badge/Internship-Celebal%20Technologies-white?style=flat-square&logo=github">
-  <img src="celebal_logo.png" alt="Celebal Logo" width="24" height="24">
+  <img src="Celebal_Logo.png" alt="Celebal Logo" height="24">
 </p>
 
 🔗 **Live App**: [https://dept-salary-analysis-krishnashelar.streamlit.app/](https://dept-salary-analysis-krishnashelar.streamlit.app/)

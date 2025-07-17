@@ -2,7 +2,7 @@
 
 This is a Streamlit-powered dashboard that analyzes employee salary data across departments and highlights departments where the **average salary exceeds the overall average**.
 
-🔗 **Live App**: [https://krishnashelardeptsalaryanalysis.streamlit.app](https://krishnashelardeptsalaryanalysis.streamlit.app)
+🔗 **Live App**: [https://dept-salary-analysis-krishnashelar.streamlit.app/](https://dept-salary-analysis-krishnashelar.streamlit.app/)
 
 ---
 

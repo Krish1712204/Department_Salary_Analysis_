@@ -115,8 +115,7 @@ In addition to the Streamlit version, this project is also implemented using **P
   ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/Krish1712204/Department_Salary_Analysis.git
-cd Department_Salary_Analysis/salary_dashboard_streamlit
+git clone https://github.com/Krish1712204/Department_Salary_Analysis_.git
 pip install -r requirements.txt
 streamlit run app.py
   ---
